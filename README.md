@@ -5,6 +5,7 @@
 ## Experiencia
 
 - Aluna Unimar
-- Aquaponia
+- Teatro
+- Dança
 
 ---
