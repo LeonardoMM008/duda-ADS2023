@@ -5,5 +5,6 @@
 ## Experiencia
 
 - Del Boni
+- Aquaponia
 
 ---
