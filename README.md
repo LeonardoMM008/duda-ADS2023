@@ -4,7 +4,7 @@
 
 ## Experiencia
 
-- Del Boni
+- Aluna Unimar
 - Aquaponia
 
 ---
