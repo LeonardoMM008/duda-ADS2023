@@ -2,3 +2,10 @@
 
 ---
 
+## Experiencia
+
+- Aluna Unimar
+- Teatro
+- Dança
+
+---
