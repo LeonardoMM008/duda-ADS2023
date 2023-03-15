@@ -2,6 +2,7 @@
 
 ---
 
+
 # Dados Pessoais
 
 CPF: XXX.XXX.XXX-XX
@@ -13,3 +14,12 @@ EMail: XXXXXXXXXXXXXX
 Celular: (XX) XXXXX-XXXX
 
 --- 
+
+## Experiencia
+
+- Aluna Unimar
+- Teatro
+- Dança
+
+---
+
