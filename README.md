@@ -20,6 +20,8 @@ Celular: (XX) XXXXX-XXXX
 - Aluna Unimar
 - Teatro
 - Dança
+- TikToker profissional
+- Bixete 2023
 
 ---
 
